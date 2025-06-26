@@ -1,5 +1,4 @@
-### Hi there! 👋 am pkdriller 
-"Software enthusiast | Problem solver | Building cool stuff 💻"
+
 
 
 ### MY STATS:
@@ -34,9 +33,7 @@ Tools:       VS Code | Git | Linux | Figma | Postman
 
 ## 🚀 Most Contributed Repo
 
-<a href="https://github.com/pkdriller0/your-most-contributed-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkdriller0&repo=your-most-contributed-repo&theme=radical&bg_color=000000&title_color=00FF41&icon_color=00FF41" />
-</a>
+
 
 ---
 
