@@ -40,6 +40,15 @@
 
 ---
 
+GitHub Trophies 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=pkdriller0&theme=radical)](https://github.com/nexustech1911)
+
+
+
+---
+
+
+
 ## 🗂️ Most Used Languages
 
 <p align="center">
