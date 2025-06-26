@@ -3,7 +3,7 @@
 <p align="center"><a href="https://komarev.com/ghpvc/?username=pkdriller0&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=pkdriller0&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
-🇰🇪
+
 <!-- GitHub Profile README for pkdriller0 -->
 
 <h1 align="center" style="color:#00FF41; font-family: 'Fira Mono', monospace;">
@@ -75,7 +75,7 @@
   ✨ Replace 'your-most-contributed-repo', social links, and contact with actual values.
   📛 Add matrix-themed GIFs to 'assets' folder or use available ones online.
 -->
-🇰🇪
+### AM A KENYAN 🇰🇪👤
 
 ### QUICK LINKS TO CONTACT ME
 
