@@ -51,11 +51,10 @@
 
 ---
 
-## 🟩 Total Contributions
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p align="center">
-  <img src="https://github-contribution-graph.elxy.net/graph?username=pkdriller0&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41" width="90%" alt="pkdriller0's Contribution Graph" />
-</p>
+
 
 ---
 
