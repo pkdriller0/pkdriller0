@@ -72,9 +72,9 @@ Tools:       VS Code | Git | Linux | Figma | Postman
   <summary style="color:#00FF41;">📬 Contact & Links</summary>
   
   - 🌐 [Portfolio](https://your-portfolio.com)
-  - 🐦 [Twitter](https://twitter.com/your_handle)
+  - 🐦 [Twitter](https://twitter.com/pkdriller1911)
   - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-  - 📫 Email: youremail@example.com
+  - 📫 Email: pkdriller520@gmail.com
 </details>
 
 <!-- 
@@ -84,7 +84,7 @@ Tools:       VS Code | Git | Linux | Figma | Postman
 -->
 🇰🇪
 
-### CONNECT WITH ME 
+### QUICK LINKS TO CONTACT ME
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dev_pkdrillerbot)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/pkdriller0)
