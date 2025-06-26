@@ -1,7 +1,4 @@
 
-
-
-### MY STATS:
 <p align="center"><a href="https://github.com/pkdriller01/followers"><img title="Followers" src="https://img.shields.io/github/followers/pkdriller0?color=red&style=flat-square"></a></p>
 <p align="center"><a href="https://komarev.com/ghpvc/?username=pkdriller0&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=pkdriller0&color=green&style=flat-square&label=Profile+View"></a>
 </p>
