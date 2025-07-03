@@ -84,12 +84,3 @@ GitHub Trophies 🏆
   ✨ Replace 'your-most-contributed-repo', social links, and contact with actual values.
   📛 Add matrix-themed GIFs to 'assets' folder or use available ones online.
 -->
-### AM A KENYAN 🇰🇪👤
-
-### QUICK LINKS TO CONTACT ME
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dev_pkdrillerbot)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/pkdriller0)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x) 
-
